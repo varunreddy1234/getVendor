@@ -9,7 +9,7 @@ cd getVendor
 docker build -t getVendor:public .
 ```
 
-3) Run container
+3) Run container with image id from above
 ```bash
 docker run -it <image id>
 ```
