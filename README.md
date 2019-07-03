@@ -16,4 +16,4 @@ docker run -it <image id>
 4) Run python program from container with mac address as given parameter to python script
 
 ```bash
-python getVendor.py 44:38:39:ff:ef:57
+python getVendor.py <MAC ADDRESS>
