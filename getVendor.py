@@ -16,4 +16,4 @@ def getVendorName():
         print ("Vendor details not Found for MAC Address " + MAC_ADDR)
 
 if __name__ == '__main__':
-getVendorName()
+    getVendorName()
